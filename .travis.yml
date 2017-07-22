@@ -6,5 +6,5 @@ dotnet: 1.0.1
 services:
   - docker
 script:    
-  - dotnet restore ./VaderSharp.Test/VaderSharp.Test.csproj
-  - dotnet test ./VaderSharp.Test/VaderSharp.Test.csproj
+  - dotnet restore ./VaderSharp/VaderSharp.Test/VaderSharp.Test.csproj
+  - dotnet test ./VaderSharp/VaderSharp.Test/VaderSharp.Test.csproj
