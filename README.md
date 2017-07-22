@@ -6,8 +6,7 @@ This is a fork of [VaderSharp](https://github.com/codingupastorm/vadersharp) to 
 
 ## get started
 
-Install the [dotnet core cli](https://www.microsoft.com/net/core).
-
+Install the [dotnet core cli](https://www.microsoft.com/net/core).  
 Open your favorite terminal and execute the following commands:
 
 ```shell
@@ -22,8 +21,6 @@ Now start refactoring!
 
 ## license
 
-Cleanvader is licensed under the [MIT License](https://github.com/bartw/cleanvader/blob/master/LICENSE).
-
-VaderSharp is licensed under the [MIT License](https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt).
-
-VADER-Sentiment-Analysis is licensed under the [MIT License](https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt).
+Cleanvader is licensed under the [MIT License](https://github.com/bartw/cleanvader/blob/master/LICENSE).  
+VaderSharp is licensed under the [MIT License](https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt).  
+VADER-Sentiment-Analysis is licensed under the [MIT License](https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt).  
