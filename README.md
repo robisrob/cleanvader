@@ -23,5 +23,7 @@ Now start refactoring!
 ## license
 
 Cleanvader is licensed under the [MIT License](https://github.com/bartw/cleanvader/blob/master/LICENSE).
+
 VaderSharp is licensed under the [MIT License](https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt).
+
 VADER-Sentiment-Analysis is licensed under the [MIT License](https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt).
